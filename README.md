@@ -2,10 +2,10 @@
 # Gold Guard — Reconhecimento Facial Local
 
 ## Alunos
-Márcio Gastaldi - RM98811
-Arthur Bessa Pian - RM99215
-Davi Desenzi - RM550849
-João Victor - RM551410
+Márcio Gastaldi - RM98811__
+Arthur Bessa Pian - RM99215__
+Davi Desenzi - RM550849__
+João Victor - RM551410__
 
 ## Objetivo
 O **Gold Guard** é um sistema de reconhecimento facial local, desenvolvido em Python com **OpenCV** (Haar Cascade para detecção e LBPH para identificação).  
@@ -134,3 +134,4 @@ pip install opencv-contrib-python numpy
 
 ## Licença
 Uso educacional e de demonstração. Avalie requisitos legais e de privacidade antes de qualquer uso real.
+
